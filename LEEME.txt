@@ -1,0 +1,12 @@
+#############################################---CURSO DE PYTHON MEDIANTE SCRIPTS---######################################################
+##################################################---IDIOMA:Español(Castellano)---#######################################################
+###########################################################---NIVEL:Básico---############################################################
+
+Este repositorio no es más que un curso basado en scripts de python intentando explicar la mayor parte de los conceptos principales
+del lenguaje de programación python. El curso esta enteramente explicado mediante impresiones de pantalla y comentarios dentro de los
+scripts que existen en el repositorio. El idioma que se usa para las explicaciones es en español, así como en la mayoria de casos tambien
+se intenta usar variables en español para entender que esta pasando dentro del script y cuyos nombres tienen cierto sentido para facilitar
+la comprensión de lo que se procesa en este.
+
+###############################################################---INDICE---##############################################################
+
